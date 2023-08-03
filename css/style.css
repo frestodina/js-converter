@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    background-image: url("https://www.thecalculatorsite.com/images/facebook-share-images/weight-converter.jpg");
+    background-size: cover;
+}
+.form {
+    margin-left: 50%;
+    margin-top: 10px;
+    height: 380px;
+    width: 600px;
+    background-color: #7B6059;
+    border: 3px solid white;
+    border-radius: 20px;
+}
+.form .material-symbols-outlined {
+    font-size: 30px;
+    color: white;
+}
+.form h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    margin: 30px 150px;
+}
+.form p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    margin: 5px 70px;
+    color: white;
+}
+.form #input1 {
+    width: 500px;
+    height: 30px;
+    border: 1px solid #7B6059;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    margin: 5px 70px;
+    border-radius: 5px;
+}
+.form #options {
+    width: 250px;
+    height: 30px;
+    border: 1px solid #7B6059;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    margin: 5px 70px;
+    border-radius: 5px;
+    color: #7B6059;
+}
+.form #options2 {
+    width: 250px;
+    height: 30px;
+    border: 1px solid #7B6059;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    margin: 5px 70px;
+    border-radius: 5px;
+    color: #7B6059;
+}
+.form #input2 {
+    width: 500px;
+    height: 30px;
+    border: 1px solid #7B6059;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    margin: 5px 70px;
+    border-radius: 5px;
+}
